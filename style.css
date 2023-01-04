@@ -182,9 +182,7 @@ main .sec2-div4-d{
 .mirrow :last-child{
     padding-left: 30px;
 }
-.sec2-div4-d :hover{
-    background-color: rgb(238, 223, 223);
-}
+
 /* SECTION-THREE/ SECTION-THREE */
 .section-three {
     display: grid;
